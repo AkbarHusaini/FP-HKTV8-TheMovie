@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
 import React from "react";
 import Search from "./Search";
-import MovieImage from "../assest/movies.png";
+import MovieImage from "../assets/movies.png";
 
 const Header = ({ title, searchMovies }) => {
   return (
